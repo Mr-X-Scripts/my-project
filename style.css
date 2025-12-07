@@ -1,0 +1,25 @@
+body {
+  background: #161B59;
+  text-align: center;
+  display: flex;
+  flex-direction: center;
+  justify-content: center;
+}
+.hack {
+     background: rgba(255, 255, 255, 0.26);
+     border: 1px solid rgba(255, 255, 255, 0.25);
+     border-radius: 30px;
+     padding: 50px;
+     backdrop-filter: blur(5px);
+     box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+     display: flex;
+     flex-direction: center ;
+     align-items: center;
+}
+button {
+  background: #960505;
+  padding: 12px;
+  border: 1px none;
+  border-radius: 15px;
+  margin-top: 30px;
+}
